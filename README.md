@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-** I am a CSE undergraduate from India**
+**I am a CSE undergraduate from India**
 
 - 🔭 I’m currently working on DSA skills and projects
 - 🌱 I’m currently learning Frontend Development, Machine Learning
